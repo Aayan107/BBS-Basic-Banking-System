@@ -4,4 +4,4 @@ A Web application that allows several users to send money to each other (Project
 
 The Stack on which the project has been built on:
   - Front End: HTML, CSS, Javascript (Bootstrap)
-  - Back End:  PHP, MySql
+  - Back End:  PHP, MySQL
