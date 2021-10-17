@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@600&display=swap');
+.nav-link{
+	margin-right: 15px;
+	color:#2F363F;
+	letter-spacing: 0.5px;
+	transition: 0.5s;
+}
+.navbar-brand{
+	color: #4C4B4B;
+	letter-spacing: 0.1px;
+	color:#e6e6e6
+}
+h2{
+	color: #4C4B4B;
+	letter-spacing: 0.5px;
+	font-family: 'Noto Sans', sans-serif;
+}
+.nav-item{
+	font-size: 25px; font-style: Italic ; font-weight: 700; font-family: 'Noto Sans', sans-serif; letter-spacing: 0.1px;
+
+}
+.navbar{
+
+	border-bottom-right-radius:45px;
+	border-top-right-radius: 40px;
+	border-width:4px; 
+	border-color:#ed6460;
+	border-width: 10px;
+	background-color:#ed6460;
+}
